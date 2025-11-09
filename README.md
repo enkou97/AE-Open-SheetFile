@@ -48,6 +48,7 @@
 
 ## 📂 フォルダー構成例 / Folder Structure
 
+```text
 ProjectFolder/
 ├── paint/
 │   ├── [ProjectName]_sozai/
