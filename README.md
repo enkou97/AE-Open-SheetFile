@@ -50,13 +50,25 @@
 
 ProjectFolder/
 ├── paint/
-│ ├── [ProjectName]\_sheet/
-│ │ ├── layout1.jpg
-│ │ ├── layout2.png
-│ └── ...
-├── \_unused/
-│ ├── [ProjectName]\_sheet/
-│ │ ├── backup1.jpg
-│ └── ...
-└── 08_open sheetFile.jsx
+│   ├── [ProjectName]_sozai/
+│   │   ├── sheet/
+│   │   │   ├── layout1.jpg
+│   │   │   ├── layout2.png
+│   │   │   └── ...
+│   │   ├── source1.png
+│   │   ├── source2.png
+│   │   └── ...
+│   └── ...
+├── _unused/
+│   ├── [ProjectName]_sozai/
+│   │   ├── sheet/
+│   │   │   ├── backup1.jpg
+│   │   │   ├── backup2.png
+│   │   │   └── ...
+│   │   ├── old_source1.png
+│   │   └── ...
+│   └── ...
+├── 08_open sheetFile.jsx
+└── [ProjectName].aep
+
 
