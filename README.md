@@ -53,20 +53,20 @@ ProjectFolder/
 ├── paint/
 │   ├── [ProjectName]_sozai/
 │   │   ├── sheet/
-│   │   │   ├── layout1.jpg
-│   │   │   ├── layout2.png
+│   │   │   ├── sheet0001.jpg
+│   │   │   ├── sheet0002.jpg
 │   │   │   └── ...
-│   │   ├── source1.png
-│   │   ├── source2.png
+│   │   ├── a0001.tga
+│   │   ├── b0001.tga
 │   │   └── ...
 │   └── ...
 ├── _unused/
 │   ├── [ProjectName]_sozai/
 │   │   ├── sheet/
-│   │   │   ├── backup1.jpg
-│   │   │   ├── backup2.png
+│   │   │   ├── sheet0001.jpg
+│   │   │   ├── sheet0002.jpg
 │   │   │   └── ...
-│   │   ├── old_source1.png
+│   │   ├── c0001.tga
 │   │   └── ...
 │   └── ...
 ├── 08_open sheetFile.jsx
